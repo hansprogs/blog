@@ -1,0 +1,11 @@
+{
+  "name": "Vick's Code & Thoughts",
+  "handle": "Itsmevick",
+  "logo": "/images/organization-logo.png",
+  "tagline": "Full-stack experiments, Haskell adventures, and random tech reflections",
+  "description": "Personal blog & learning space focused on JavaScript, TypeScript, Haskell, web development, and occasional deep-dives into functional programming.",
+  "github": "https://github.com/Itsmevick",
+  "twitter": "https://x.com/Itsmevick",
+  "email": "vickkaranja91@example.com",
+  "location": "Nairobi, Kenya"
+}
