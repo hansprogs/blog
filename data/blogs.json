@@ -5,7 +5,7 @@
     "date": "2026-01-21",
     "category": "Personal",
     "tags": ["motivation", "productivity", "career", "javascript", "haskell"],
-    "image": "/images/2026-01-21-getting-back-into-coding-after-a-long-break.jpg",
+    "image": "/images/2026-01-21-getting-back-into-coding-after-a-break.jpg",
     "summary": "After almost a year away from serious coding, here's what worked (and what didn't) when I decided to jump back in — tools, routines, mindset shifts, and why small public prototypes beat perfect private plans.",
     "content": "# Getting Back Into Coding After a Long Break\n\nIt's 2026 and my last meaningful commit was mid-2025. Life happened — work, family, burnout, side quests. Sound familiar?\n\n[... write your full markdown article here ...]\n\n## What actually helped me return\n\n1. Tiny public prototypes (like vastreach)\n2. One language per day rule (JS Mon–Wed, Haskell Thu–Fri)\n3. No zero days — even 15 minutes counts\n\n[... continue ...]\n\nIf you're in the same boat, start stupidly small. Push ugly code. The momentum builds faster than you think."
   }
